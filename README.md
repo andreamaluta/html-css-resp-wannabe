@@ -8,4 +8,4 @@ Bonus: Sopra i 768px e fino ai 1160px il layout è un po’ troppo “rigido”!
 Numero minimo di push: 4
 Suggerimenti: - Prima di poter lavorare sul responsive c’è una piccola cosa da fare sull’HTML…
 Apriamo le slide e usiamole come guida per il lavoro, aggiungiamo sempre solo un pezzettino alla volta.
-:avviso: Fate attenzione: a volte l'inspector di Chrome può dare qualche problema con le mediaquery, controllate il lavoro anche con l'inspector di Firefox
+:avviso: Fate attenzione: a volte l'inspector di Chrome può dare qualche problema con le mediaquery, controllate il lavoro anche con l'inspector di Firefox.
